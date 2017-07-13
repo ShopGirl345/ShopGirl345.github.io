@@ -4,6 +4,15 @@
 -------------------------------------------------------- */
 
 @media (max-width: 767px){
+	
+	.norm{
+		display: block;
+	}
+	
+	
+	.resp{
+		display: none;
+	}
 
 	.navbar-default .navbar-toggle{
 		background: none;
